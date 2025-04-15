@@ -111,7 +111,7 @@ Github Education是一个面向全世界高校师生的社区，可以理解为�
 
 你其实需要材料来佐证你的学生身份，我们这一步选择使用学籍报告提高成功率.
 
-登录学信档案网站(https://my.chsi.com.cn)，点在线验证报告，会有一个*教育部学籍在线验证报告*，点击右边的查看
+登录学信档案网站<a href="https://my.chsi.com.cn">https://my.chsi.com.cn</a>，点在线验证报告，会有一个*教育部学籍在线验证报告*，点击右边的查看
 
 ![axBSt.png](https://i.imgs.ovh/2025/04/15/axBSt.png)
 
