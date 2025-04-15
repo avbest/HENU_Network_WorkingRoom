@@ -27,7 +27,7 @@ Github Education是一个面向全世界高校师生的社区，可以理解为�
 
 怎么看你的学籍信息是否录入学信网了呢？
 
-我们打开学信网的官方网站（https://www.chsi.com.cn），登录进去
+我们打开学信网的官方网站<a href="https://www.chsi.com.cn">https://www.chsi.com.cn</a>，登录进去
 
 （填报志愿的时候大家或许已经注册过了，因为用到阳光高考了. 如果你还没注册的话也没关系，注册一个然后正常实名就行啦）
 
@@ -129,7 +129,7 @@ Github Education是一个面向全世界高校师生的社区，可以理解为�
 
 首先确保，申请全程都**不能**科学上网，这个很重要.
 
-打开 https://education.github.com，登录你的账号，然后开始申请.
+打开<a href="https://education.github.com">https://education.github.com</a>，登录你的账号，然后开始申请.
 
 新版Github Education改申请界面了，它现在长这样
 
